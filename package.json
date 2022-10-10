@@ -1,0 +1,19 @@
+{
+  "name": "vite-resolve-url-encode-demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "~2.6.14",
+    "@ui/components": "file:./node_modules/@ui/components"
+  },
+  "devDependencies": {
+    "terser": "^5.14.1",
+    "vite": "^3.0.0",
+    "vite-plugin-vue2": "^2.0.2",
+    "vue-template-compiler": "~2.6.14"
+  }
+}
