@@ -1,8 +1,3 @@
 <template>
-    <p>test</p>
+    <h1>This is an unbuilt component</h1>
 </template>
-<style>
-p {
-    background-color: yellow;
-}
-</style>
